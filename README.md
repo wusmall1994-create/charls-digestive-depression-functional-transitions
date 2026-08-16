@@ -1,5 +1,7 @@
 # CHARLS digestive disease, depressive symptoms, and functional transitions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21966943.svg)](https://doi.org/10.5281/zenodo.21966943)
+
 This repository contains the statistical analysis code for a longitudinal study of time-varying digestive disease–depressive symptom states and transitions among no functional limitation, IADL limitation, ADL limitation, and death in CHARLS.
 
 ## Privacy and data access
@@ -58,5 +60,8 @@ The main models estimate interval transition risk ratios with modified Poisson r
 
 ## Versioning and citation
 
-Stable versions are distributed through GitHub releases. A DOI will be added after a release is archived in a DOI-issuing repository.
+Stable versions are distributed through GitHub releases and archived in Zenodo. Cite version 1.0.0 as:
 
+> Liang H, Wu X, Huang S, Zheng F, Qiu R. Analysis code for digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS. Version 1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.21966943
+
+The concept DOI for all versions is https://doi.org/10.5281/zenodo.21966942.
