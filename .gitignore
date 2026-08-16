@@ -1,0 +1,33 @@
+# Restricted or participant-level data
+*.dta
+*.sav
+*.sas7bdat
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.pkl
+*.rds
+
+# Manuscripts and submission files
+*.doc
+*.docx
+*.pdf
+*.tex
+
+# Generated outputs and local environments
+outputs/
+.analysis_deps/
+.venv/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.DS_Store
+
+# Local configuration and secrets
+.env
+config.local.*
+*.key
+*.pem
+
