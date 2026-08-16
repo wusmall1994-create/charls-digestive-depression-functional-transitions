@@ -1,0 +1,36 @@
+{
+  "creators": [
+    {
+      "name": "Liang, Huadong"
+    },
+    {
+      "name": "Wu, Xiaoxin"
+    },
+    {
+      "name": "Huang, Shumin"
+    },
+    {
+      "name": "Zheng, Fengxiang"
+    },
+    {
+      "name": "Qiu, Rongjin"
+    }
+  ],
+  "title": "Analysis code for digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS",
+  "description": "Reproducible statistical analysis code for a longitudinal CHARLS study of time-varying digestive disease–depressive symptom states and transitions among no functional limitation, IADL limitation, ADL limitation, and death. Participant-level CHARLS data are not redistributed.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng",
+  "keywords": [
+    "CHARLS",
+    "functional transitions",
+    "activities of daily living",
+    "instrumental activities of daily living",
+    "digestive disease",
+    "depressive symptoms",
+    "multistate analysis",
+    "reproducible research"
+  ]
+}
