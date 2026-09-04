@@ -16,9 +16,9 @@
       "name": "Qiu, Rongjin"
     }
   ],
-  "title": "Analysis code for digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS",
-  "description": "Reproducible statistical analysis code for a longitudinal CHARLS study of time-varying digestive disease–depressive symptom states and transitions among no functional limitation, IADL limitation, ADL limitation, and death. Participant-level CHARLS data are not redistributed.",
-  "version": "1.0.0",
+  "title": "Statistical analysis code for repeated digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS",
+  "description": "Statistical analysis code for a longitudinal CHARLS study of time-varying digestive disease–depressive symptom states; repeated and cumulative co-occurrence histories; and transitions among no functional limitation, IADL limitation, ADL limitation, and death. No participant-level CHARLS data, manuscripts, analysis outputs, or author contact information are included.",
+  "version": "2.0.0",
   "access_right": "open",
   "license": "mit",
   "upload_type": "software",
@@ -31,6 +31,8 @@
     "digestive disease",
     "depressive symptoms",
     "multistate analysis",
+    "exposure history",
+    "marginal structural model",
     "reproducible research"
   ]
 }

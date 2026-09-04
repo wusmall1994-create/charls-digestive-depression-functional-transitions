@@ -24,6 +24,8 @@ PIPELINE = [
     "11_build_grip_strength_dataset.py",
     "12_sequence_and_grip_pathway.py",
     "13_continuous_time_multistate_sensitivity.py",
+    "14_dynamic_cooccurrence_history.py",
+    "15_marginal_structural_sensitivity.py",
 ]
 
 
@@ -41,4 +43,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -1,6 +1,6 @@
 # CHARLS digestive disease, depressive symptoms, and functional transitions
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21966943.svg)](https://doi.org/10.5281/zenodo.21966943)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21966942.svg)](https://doi.org/10.5281/zenodo.21966942)
 
 This repository contains the statistical analysis code for a longitudinal study of time-varying digestive disease–depressive symptom states and transitions among no functional limitation, IADL limitation, ADL limitation, and death in CHARLS.
 
@@ -17,7 +17,9 @@ The scripts reproduce:
 - standardized absolute risks and additive-interaction estimates;
 - chronic-disease benchmark comparisons;
 - sleep and grip-strength pathway analyses;
-- subgroup, multiple-imputation, strict-outcome, incident-decline, and continuous-time sensitivity analyses.
+- subgroup, multiple-imputation, strict-outcome, incident-decline, and continuous-time sensitivity analyses;
+- first observed, repeated, and cumulative co-occurrence history analyses;
+- a marginal structural sensitivity analysis incorporating measured prior exposure, depressive-symptom severity, and functional-state history.
 
 The code expects the original CHARLS directory structure used in the public releases. Minor path adjustments may be required if downloaded files were renamed or reorganized.
 
@@ -60,8 +62,8 @@ The main models estimate interval transition risk ratios with modified Poisson r
 
 ## Versioning and citation
 
-Stable versions are distributed through GitHub releases and archived in Zenodo. Cite version 1.0.0 as:
+Stable versions are distributed through GitHub releases and archived in Zenodo. The concept DOI below always resolves to the latest archived release:
 
-> Liang H, Wu X, Huang S, Zheng F, Qiu R. Analysis code for digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS. Version 1.0.0. Zenodo. 2026. https://doi.org/10.5281/zenodo.21966943
+> Liang H, Wu X, Huang S, Zheng F, Qiu R. Statistical analysis code for repeated digestive disease–depressive symptom co-occurrence and functional transitions in CHARLS. Zenodo. 2026. https://doi.org/10.5281/zenodo.21966942
 
 The concept DOI for all versions is https://doi.org/10.5281/zenodo.21966942.

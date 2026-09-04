@@ -15,6 +15,7 @@
 | 11 | `11_build_grip_strength_dataset.py` | Construct the grip-strength inputs required by the pathway analysis. |
 | 12 | `12_sequence_and_grip_pathway.py` | Assess co-occurrence sequence feasibility and the ordered grip-strength pathway. |
 | 13 | `13_continuous_time_multistate_sensitivity.py` | Fit unadjusted continuous-time Markov sensitivity models with bootstrap intervals. |
+| 14 | `14_dynamic_cooccurrence_history.py` | Compare first observed, repeated, and accumulated digestive disease–depressive symptom co-occurrence and summarize observed onset sequence. |
+| 15 | `15_marginal_structural_sensitivity.py` | Fit a weighted sensitivity analysis incorporating measured prior exposure, depressive-symptom severity, and functional-state history. |
 
 Participant-level intermediate files remain local in `outputs/` and are excluded by `.gitignore`.
-
